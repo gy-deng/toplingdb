@@ -9,7 +9,7 @@ on:
         default: 'topling/toplingdb'
       repository_branch:
         required: false
-        default: 'sideplugin-7.10.0-2022-12-21-bec42648'
+        default: 'memtable_as_log_index'
       test:
         required: false
         type: boolean
